@@ -1,4 +1,5 @@
 # 🍔 Food Delivery Time Predictor
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20App-success?style=for-the-badge)](https://food-delivery-time-prediction-rf-msxnki6v7kswdbspgm3spg.streamlit.app/)
 
 An end-to-end **Machine Learning web application** that predicts food delivery time in minutes using **Random Forest Regression**.
 
